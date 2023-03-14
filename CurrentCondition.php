@@ -27,3 +27,5 @@ class CurrentCondition implements Observer{
     }
     
 }
+
+//There is a changes 
