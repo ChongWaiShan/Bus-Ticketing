@@ -24,8 +24,7 @@ class CurrentCondition implements Observer{
         $str.="<br/> Temperature: ".$this->temp."&#8451;";
         $str.="<br/> Humidity: ".$this->humdity."%</p>";
         echo $str;
-    }
-    
+    } 
 }
 
-//There is a changes 
+//There is a change
